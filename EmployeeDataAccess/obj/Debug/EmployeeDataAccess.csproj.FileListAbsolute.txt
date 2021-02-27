@@ -1,0 +1,10 @@
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\VikasWilliam\Desktop\WebApi\.NetApi2021\.NetApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
